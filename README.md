@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Zerodotone&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hungnghinty&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -65,14 +65,14 @@ Currently exploring:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zerodotone&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerodotone&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungnghinty&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnghinty&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zerodotone&theme=react&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hungnghinty&theme=react&hide_border=true)
 
 </div>
 
@@ -125,7 +125,7 @@ Currently exploring:
 
 <div align="center">
   
-[![Zerodotone's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zerodotone&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zerodotone's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hungnghinty&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -133,7 +133,7 @@ Currently exploring:
 
 <div align="center">
   
-![Snake animation](https://github.com/Zerodotone/Zerodotone/blob/main/snake.svg)
+![Snake animation](https://github.com/hungnghinty/Zerodotone/blob/main/snake.svg)
 
 </div>
 
