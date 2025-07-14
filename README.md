@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @Zerodotone</h1>
 <h3 align="center">Just a coder .... and holder =]]</h3>
 
+![Snake animation](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/snake.svg)
+
 - 🔭 I’m currently working on [a task management project (self project) if u interest](https://taskify.pro.vn/)
 
 - 🌱 I’m currently learning **to be better everyday**
