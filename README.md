@@ -133,7 +133,7 @@ Currently exploring:
 
 <div align="center">
   
-![Snake animation](https://github.com/hungnghinty/Zerodotone/blob/main/snake.svg)
+![Snake animation](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/snake.svg)
 
 </div>
 
